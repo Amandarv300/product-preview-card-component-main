@@ -5,7 +5,8 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codif
 
 ### Screenshot
 
-![](recipe-page-print.png)
+![](Captura-de-tela-2024-05-09-173254.png)
+![](Captura-de-tela-2024-05-09-173810.png)
 
 ### Construído com
 
