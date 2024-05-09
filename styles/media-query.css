@@ -1,0 +1,39 @@
+@media screen and (min-width:670px) and (max-width:2500px){
+main{
+    display: flex;
+    width: 560px;
+    height: 420px;
+}
+img{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    height: 420px;
+    border-radius: 10px 0px 0px 10px;
+}
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 15px 28px;
+}
+h1{
+    font-size: 2em;
+    padding: 10px 0px;
+}
+p{
+    font-size: 13px;
+    padding: 8px 0px;
+}
+#preco{
+    height: 45px;
+    padding: 10px 0px;
+}
+#button{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    margin: 10px 0px;
+}
+}
