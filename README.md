@@ -15,5 +15,3 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codif
 - Grade CSS
 - Ultilizando o conceito Mobile first
   - Mobile first é um projeto que faz a criação de projetos web e sites primeiro em dispositivos móveis, para depois fazer adaptações para o desktop e outras plataformas, ao contrário do que ainda acontece na maioria das vezes.
-
-
